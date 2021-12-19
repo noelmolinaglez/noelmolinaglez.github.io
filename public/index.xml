@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sql para todos</title>
+    <link>https://noelmolinaglez.github.io/sqlForAll/</link>
+    <description>Recent content on Sql para todos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Dec 2021 21:02:33 -0500</lastBuildDate>
+    
+	<atom:link href="https://noelmolinaglez.github.io/sqlForAll/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello Sql</title>
+      <link>https://noelmolinaglez.github.io/sqlForAll/posts/hello-sql/</link>
+      <pubDate>Sat, 18 Dec 2021 21:02:33 -0500</pubDate>
+      
+      <guid>https://noelmolinaglez.github.io/sqlForAll/posts/hello-sql/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
